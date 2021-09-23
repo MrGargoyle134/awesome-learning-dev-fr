@@ -8,6 +8,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 - [Tutoriels/Cours par langages](#tutorielscours-par-langages)
   - [Algorithmie](#algorithmie)
+  - [Asm](#asm)
   - [Bash](#bash)
   - [C](#c)
   - [C++](#c-1)
@@ -51,6 +52,13 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 - [Cours (Introduction to Algorithms by Cormen sur Amazon)](https://www.amazon.fr/Introduction-Algorithms-3e-Thomas-Cormen/dp/0262033844/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
 - [Tutoriel (GoalKicker)](https://books.goalkicker.com/AlgorithmsBook/)
+
+### Asm
+# 8086
+- ["The art of assembly language"](https://www.plantation-productions.com/Webster/www.artofasm.com/)
+- [Ralf Brown's interrupt list](http://www.ctyme.com/rbrown.htm)
+# 6502
+- [Le site 6502.org](http://www.6502.org/)
 
 ### Bash
 
